@@ -1,6 +1,6 @@
-#Arrays
+# Arrays
 
-##Functions
+## Functions
 
 ### Declare Array
 Use **type[] arrayName = new type[size]** for declaring an array with specified size.

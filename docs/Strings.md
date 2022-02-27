@@ -1,6 +1,6 @@
-#String
+# Strings
 
-##Functions
+## Functions
 
 ### Length
 String is an object and has a **length()** method to calculate the number of characters in string
